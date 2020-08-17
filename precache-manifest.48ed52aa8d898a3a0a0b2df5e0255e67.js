@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c61351c7c4db3692868b67cf50f122fd",
+    "revision": "a09c817ecd11b442ca0f2836766bbeb4",
     "url": "/spokane-surf-report/index.html"
   },
   {
-    "revision": "c3501dfa37fabb35df0e",
-    "url": "/spokane-surf-report/static/css/main.c675690f.chunk.css"
+    "revision": "935f61b6fa5f35564e7f",
+    "url": "/spokane-surf-report/static/css/main.047870ef.chunk.css"
   },
   {
-    "revision": "04fe71b1124020341113",
-    "url": "/spokane-surf-report/static/js/2.0f1f59e1.chunk.js"
+    "revision": "f15d967e5174b270c72e",
+    "url": "/spokane-surf-report/static/js/2.bd8b4015.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/spokane-surf-report/static/js/2.0f1f59e1.chunk.js.LICENSE.txt"
+    "url": "/spokane-surf-report/static/js/2.bd8b4015.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3501dfa37fabb35df0e",
-    "url": "/spokane-surf-report/static/js/main.97a98aee.chunk.js"
+    "revision": "935f61b6fa5f35564e7f",
+    "url": "/spokane-surf-report/static/js/main.c64a31ac.chunk.js"
   },
   {
     "revision": "3329e4f277050983abe2",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ced4a3b332e6ea97d30fa137cee464f",
     "url": "/spokane-surf-report/static/media/Quicksand-SemiBold.0ced4a3b.ttf"
+  },
+  {
+    "revision": "eef7c8334572c97e3713e759dd05d61e",
+    "url": "/spokane-surf-report/static/media/icon-contact.eef7c833.svg"
+  },
+  {
+    "revision": "36e3b190e217993c27be6d6abb191155",
+    "url": "/spokane-surf-report/static/media/icon-help.36e3b190.svg"
   },
   {
     "revision": "cdabfdfd1aa68b47de5785d9aa14cca1",
