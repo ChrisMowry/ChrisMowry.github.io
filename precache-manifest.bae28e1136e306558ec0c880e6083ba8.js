@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "945dc90e62d3905ee710ef2c3f8e522b",
+    "revision": "acfdbbdf50b53290e33f3a076b620fe0",
     "url": "/spokane-surf-report/index.html"
   },
   {
-    "revision": "ef9cfbe62ca0cf32bb46",
-    "url": "/spokane-surf-report/static/css/main.ef386069.chunk.css"
+    "revision": "44b5fa5adac6dfd90820",
+    "url": "/spokane-surf-report/static/css/main.04f1fa60.chunk.css"
   },
   {
-    "revision": "f15d967e5174b270c72e",
-    "url": "/spokane-surf-report/static/js/2.bd8b4015.chunk.js"
+    "revision": "b1eca77ac0b2e36b3ace",
+    "url": "/spokane-surf-report/static/js/2.c2b88d81.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/spokane-surf-report/static/js/2.bd8b4015.chunk.js.LICENSE.txt"
+    "url": "/spokane-surf-report/static/js/2.c2b88d81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef9cfbe62ca0cf32bb46",
-    "url": "/spokane-surf-report/static/js/main.ec768376.chunk.js"
+    "revision": "44b5fa5adac6dfd90820",
+    "url": "/spokane-surf-report/static/js/main.d81fd9e8.chunk.js"
   },
   {
     "revision": "3329e4f277050983abe2",
@@ -86,5 +86,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e033c19de635b4d94a4f803abfd09ea0",
     "url": "/spokane-surf-report/static/media/map-icon-thumbs-up.e033c19d.svg"
+  },
+  {
+    "revision": "774313c641b1c8b94b6e4b4fff166bd0",
+    "url": "/spokane-surf-report/static/media/map_snippet.774313c6.jpg"
+  },
+  {
+    "revision": "feb428efbe891986306e534eb5217ae2",
+    "url": "/spokane-surf-report/static/media/surf_app_snippet.feb428ef.jpg"
   }
 ]);
